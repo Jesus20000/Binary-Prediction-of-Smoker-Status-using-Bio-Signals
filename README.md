@@ -1,5 +1,5 @@
 ### My Goal
-For this episode of the series, my task is to use binary classification to predict a patient's smoking status given information about various other health indicators. Good luck!
+For this episode of the series, my task is to use binary classification to predict a patient's smoking status given information about various other health indicators.
 
 ## Project Description
 
